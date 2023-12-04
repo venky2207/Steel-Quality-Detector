@@ -17,7 +17,7 @@ def app(df, X, y):
     st.markdown(
         """
             <p style="font-size:25px">
-                This app uses <b style="color:green">Decision Tree Classifier</b> for the Prediction of Steel Quality.
+                This app uses <b style="color:green">Random Forest Regression</b> for the Prediction of Steel Quality.
             </p>
         """, unsafe_allow_html=True)
     
